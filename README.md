@@ -28,7 +28,7 @@
 
 ## 개발환경
 
-+ 파이썬 스펙
++ 파이썬
 
         face-recognition==1.3.0
         face_recognition_models==0.3.0
@@ -49,7 +49,7 @@
         tqdm==4.66.4
         ultralytics==8.2.58
 
-+ 서버 환경 & 네트워크 & DB
++ 웹 & 앱 환경
 
         Flask==3.0.3
   
