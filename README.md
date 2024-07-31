@@ -38,7 +38,7 @@
 ----------------------------------------------------------------------------------------------------
 
 ## 랜더링 도면 및 설계도
-![image](https://github.com/user-attachments/assets/be92ea05-6bc1-43c8-aa12-77a2cc6b5169 width="200" height="400"/)
+![image](https://github.com/user-attachments/assets/be92ea05-6bc1-43c8-aa12-77a2cc6b5169)
 
 ![image](https://github.com/user-attachments/assets/db97f52a-e6fb-4d92-b001-2492361cdab5)
 
