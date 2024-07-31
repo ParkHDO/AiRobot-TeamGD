@@ -81,7 +81,7 @@
 ![train_batch0](https://github.com/user-attachments/assets/6be4282e-23d8-4b4f-98f0-faca83e15143)
 >
 3. 얼굴인식
-> + OpenCV Face Detection 모델 + face embadding
+> + OpenCV Face Detection 모델 + Face Embadding
 > 
 DNN모델을 이용해서 얼굴인식. 특정 멘트 입력 후 촬영하여 데이터파일에 이미지를 저장. 저장된 얼굴데이터의 임베딩 생성 시작 후 같은 얼굴 일치 여부 확인.
 
