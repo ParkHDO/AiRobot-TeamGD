@@ -33,7 +33,7 @@
     To train only the head layer, we passed layer='heads' to the train() function.
 
 + 서버 환경 & 네트워크 & DB
-        Flask
+   Flask
   
 ----------------------------------------------------------------------------------------------------
 
