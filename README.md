@@ -37,7 +37,6 @@
         numpy==1.26.4
         openai==0.28.0
         opencv-python==4.9.0.80
-        opencv-python-headless==4.10.0.84
         pandas==2.2.2
         PyAudio==0.2.14
         pyserial==3.5
