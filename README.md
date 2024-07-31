@@ -18,7 +18,15 @@
 >        - 순찰 중 등장하는 장애물들을 감지하고 피한다.
 >
 
-## Train
+----------------------------------------------------------------------------------------------------
+
+## 개발환경
+
++ 파이썬 
     Just the head. Here I freeze all backbone layers and train only randomly initialized layers (i.e. layers that do not use pre-trained weights from MS COCO). 
     To train only the head layer, we passed layer='heads' to the train() function.
 
++ 서버 환경 & 네트워크 & DB
+        Flask
+  
+----------------------------------------------------------------------------------------------------
