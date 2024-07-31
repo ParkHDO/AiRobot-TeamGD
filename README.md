@@ -78,7 +78,7 @@
 >   
 시각 장애인 보행에 장애가 되는 객체 13클래스를 인식하는 모델. 로보플로우에서 이미지 라벨링 진행 후 Custom Dataset 제작. Custom Dataset으로 학습시킨 YOLOv8 모델을 이용하여 객체인식 수행.
 객체인식의 결과를 gtts로 음성출력.
-![train_batch0](https://github.com/user-attachments/assets/5fa5ebbe-85dd-4ff1-8dbe-235205d0b6a3)
+<img src="file:///C:/Users/%EC%A1%B0%EC%98%81%EB%B9%88/Downloads/train_batch0.jpg  width="200" height="400"/>
 
 >
 3. 얼굴인식
