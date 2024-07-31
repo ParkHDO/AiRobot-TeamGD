@@ -1,4 +1,4 @@
-# 시각장애인을 위한 AI 기반 가이드 독
+![image](https://github.com/user-attachments/assets/f717e1a8-7d96-4aba-bd51-cded7f83ca37)# 시각장애인을 위한 AI 기반 가이드 독
 
 #### 프로젝트 기간: 2024.06.10 ~ 2024.07
 
@@ -66,5 +66,6 @@
 DNN모델을 이용해서 얼굴인식. 특정 멘트 입력 후 촬영하여 데이터파일에 이미지를 저장. 저장된 얼굴데이터의 임베딩 생성 시작 후 같은 얼굴 일치 여부 확인.
 
 ## 웹 & 앱
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/00ea8516-6955-45c4-a38f-ccea6f9da691)
+
 
