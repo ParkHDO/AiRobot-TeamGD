@@ -1,8 +1,7 @@
 # 시각장애인을 위한 AI 기반 가이드 독
 
 프로젝트 기간: 2024.06.10 ~ 2024.07
-
-참여자이메일: gmleh9207@gmail.com,thdtmdrj000@gmail.com, 77578480jj@gmail.com, youjiwon1116@gmail.com, rty0408@gmail.com, hyunnuu@gmail.com
+2달동안 6명의 팀원들과 아래 프로젝트를 진행했습니다.
 
 ## 개요
 > ### 자율주행 로봇의 필요성
