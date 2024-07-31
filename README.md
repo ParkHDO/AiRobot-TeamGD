@@ -28,12 +28,32 @@
 
 ## 개발환경
 
-+ 파이썬 
-    Just the head. Here I freeze all backbone layers and train only randomly initialized layers (i.e. layers that do not use pre-trained weights from MS COCO). 
-    To train only the head layer, we passed layer='heads' to the train() function.
++ 파이썬 스펙
+
+        Python==3.6.7
+        Cython
+        dlib==19.8.1
+        face-recognition==1.3.0
+        numpy==1.15.0
+        torch==1.7.0+cu101
+        torchvision==0.8.1+cu101
+        tensorflow==1.13.1
+        tensorflow-gpu==1.13.1
+        tqdm
+        Keras==2.3.1
+        opencv-python
+        scikit-learn==0.21.2
+        scipy==1.4.1
+        Pillow
+        visdom
+        Nibabel
+        GTTS
 
 + 서버 환경 & 네트워크 & DB
-   Flask
+
+        Flask
+        Python socket(UDP, TCP)
+        SQLite
   
 ----------------------------------------------------------------------------------------------------
 
