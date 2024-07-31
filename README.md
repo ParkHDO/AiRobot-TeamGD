@@ -30,7 +30,7 @@
 
 + 파이썬 스펙
 
-  Python==3.6.7
+        Python==3.6.7
         Cython
         dlib==19.8.1
         face-recognition==1.3.0
