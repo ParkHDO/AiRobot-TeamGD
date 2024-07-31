@@ -30,28 +30,29 @@
 
 + 파이썬 스펙
 
-        Python==3.6.7
-        Cython
-        dlib==19.8.1
         face-recognition==1.3.0
-        numpy==1.15.0
-        torch==1.7.0+cu101
-        torchvision==0.8.1+cu101
-        tensorflow==1.13.1
-        tensorflow-gpu==1.13.1
-        tqdm
-        Keras==2.3.1
-        opencv-python
-        scikit-learn==0.21.2
-        scipy==1.4.1
-        Pillow
-        visdom
-        Nibabel
-        GTTS
+        face_recognition_models==0.3.0
+        gTTS==2.5.1
+        matplotlib==3.9.0
+        numpy==1.26.4
+        openai==0.28.0
+        opencv-python==4.9.0.80
+        opencv-python-headless==4.10.0.84
+        pandas==2.2.2
+        PyAudio==0.2.14
+        pyserial==3.5
+        pyttsx3==2.90
+        scikit-learn==1.5.1
+        SpeechRecognition==3.10.4
+        tensorflow==2.16.2
+        torch==2.0.1+cu117
+        torchvision==0.15.2+cu117
+        tqdm==4.66.4
+        ultralytics==8.2.58
 
 + 서버 환경 & 네트워크 & DB
 
-        Flask
+        Flask==3.0.3
   
 ----------------------------------------------------------------------------------------------------
 
