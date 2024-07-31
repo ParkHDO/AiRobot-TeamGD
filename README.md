@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/148b8173-dd71-499a-85a7-38645f6ba3b3)# 시각장애인을 위한 AI 기반 가이드 독
+# 시각장애인을 위한 AI 기반 가이드 독
 
 #### 프로젝트 기간: 2024.06.10 ~ 2024.07
 
