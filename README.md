@@ -96,7 +96,8 @@ DNN모델을 이용해서 얼굴인식. 특정 멘트 입력 후 촬영하여 �
  + 카메라를 호출하여 실시간 스트리밍과 녹화를 진행합니다. 스트리밍 영상은 2분 간격으로 녹화.
  + 녹화된 영상은 "Saved Videos"에 저장됩니다. 저장된 영상은 "Video Play Back" 기능을 통해 재생할 수 있습니다.
  
- ![image](https://github.com/user-attachments/assets/5666007d-bb40-41d2-aaea-affdae744d14)
+ ![1](https://github.com/user-attachments/assets/f5997e18-14d0-4354-9731-d1cc0b57c816)
+
 
  ![image](https://github.com/user-attachments/assets/6617a25a-60c9-4e7a-bb8b-e2a81910c644)
 
