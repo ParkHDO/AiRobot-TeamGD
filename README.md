@@ -77,20 +77,29 @@ AI 반려로봇은 객체 인식과 음성 대화 기능을 통해 시각장애�
 > + Chat GPT API(gpt 3.5 turbo) + GTTS
 >
 시작 멘트 감지하여 대화시작. 사용자가 전달한 문장을 API로 응답. 응답한 텍스트를 음성으로 출력. 
-종료 멘트 감지시 대화 종료.
+종료 멘트 감지시 대화 종료. 사용자의 명령에 따라 대화를 녹음하고, 저장된 대화를 재생.
 ![1](https://github.com/user-attachments/assets/2fd6028d-8acb-4212-8262-a73d6cab0e75)
 >
-2. 객체인식
+2. 음성인식 및 음성출력
+> + pysttx3 + GTTS
+>
+음성인식은 사용자의 음성을 텍스트로 변환. Google의 Speech Recognition API를 사용.
+음성출력은 GPT-3의 응답이나 객체 인식 결과를 음성으로 변환하여 안내. 이를 위해 pyttsx3 및 gTTS를 사용.
+![1](https://github.com/user-attachments/assets/2fd6028d-8acb-4212-8262-a73d6cab0e75)
+>
+3. 객체인식
 > + YOLOv8 - Custom Data
 >   
 시각 장애인 보행에 장애가 되는 객체 13클래스를 인식하는 모델. 로보플로우에서 이미지 라벨링 진행 후 Custom Dataset 제작. Custom Dataset으로 학습시킨 YOLOv8 모델을 이용하여 객체인식 수행.
 객체인식의 결과를 gtts로 음성출력.
+
 ![train_batch0](https://github.com/user-attachments/assets/6be4282e-23d8-4b4f-98f0-faca83e15143)
 >
-3. 얼굴인식
+4. 얼굴인식
 > + OpenCV Face Detection 모델 + Face Embadding
 > 
 DNN모델을 이용해서 얼굴인식. 특정 멘트 입력 후 촬영하여 데이터파일에 이미지를 저장. 저장된 얼굴데이터의 임베딩 생성 시작 후 같은 얼굴 일치 여부 확인.
+"얼굴 저장" 명령을 통해 새로운 얼굴을 캡처하여 저장할 수 있습니다.
 
 ----------------------------------------------------------------------------------------------------
 
