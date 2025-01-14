@@ -83,7 +83,8 @@ AI 반려로봇은 객체 인식과 음성 대화 기능을 통해 시각장애�
 >
 음성인식은 사용자의 음성을 텍스트로 변환. Google의 Speech Recognition API를 사용.
 음성출력은 GPT-3의 응답이나 객체 인식 결과를 음성으로 변환하여 안내. 이를 위해 pyttsx3 및 gTTS를 사용.
-![1](https://github.com/user-attachments/assets/2fd6028d-8acb-4212-8262-a73d6cab0e75)
+![2](https://github.com/user-attachments/assets/b611bc7b-1cfb-4d4d-9ef6-633edaf15e2a)
+
 >
 3. 객체인식
 > + YOLOv8 - Custom Data
