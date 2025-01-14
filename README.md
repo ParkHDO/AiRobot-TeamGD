@@ -96,7 +96,6 @@ AI 반려로봇은 객체 인식과 음성 대화 기능을 통해 시각장애�
 </p>
   객체를 인식 후 프로그램상에 인식된 물체 감지 후 사고 예방을 위해 메세지 전달  <br>
 </div>
-![train_batch0](https://github.com/user-attachments/assets/6be4282e-23d8-4b4f-98f0-faca83e15143)
 >
 4. 얼굴인식
 > + OpenCV Face Detection 모델 + Face Embadding
